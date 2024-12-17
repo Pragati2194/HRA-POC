@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+env/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Logs and local configuration
+*.log
+.env
+.DS_Store
+
+# Dependency directories
+dist/
+build/
+*.egg-info/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
