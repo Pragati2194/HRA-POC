@@ -1,0 +1,135 @@
+[
+    {
+        "Service": "Intensive Care",
+        "Revenue Code": "200, 201, 202, 203, 207, 208, 209, 210, 211, 212, 213, 219",
+        "Rule": "Per Diem",
+        "Rate": 5949.00,
+        "Note": "MICU/SICU/PICU/CCU",
+        "Days": ""
+    },
+    {
+        "Service": "Intermediate Care",
+        "Revenue Code": "206, 214",
+        "Rule": "Per Diem",
+        "Rate": 4642.00,
+        "Note": "Step Down or Telemetry",
+        "Days": ""
+    },
+    {
+        "Service": "Medical Care",
+        "Revenue Code": "100, 101, 110, 111, 112, 113, 117, 119, 120, 121, 122, 123, 127, 129, 130, 131, 132, 133, 137, 139, 140, 141, 142, 143, 147, 149, 150, 151, 152, 153, 157, 159, 160, 164, 167, 169",
+        "Rule": "Per Diem",
+        "Rate": 4374.00,
+        "Note": "",
+        "Days": "0-1"
+    },
+    {
+        "Service": "Surgical Care",
+        "Revenue Code": "100, 101, 110, 111, 113, 117, 119, 120, 121, 123, 127, 129, 130, 131, 133, 137, 139, 140, 141, 143, 147, 149, 150, 151, 153, 157, 159, 160, 164, 167, 169",
+        "And Revenue Code": "360, 361, 362, 367, 369, 480, 481, 750, 790",
+        "Rule": "Per Diem",
+        "Rate": 5802.00,
+        "Note": "",
+        "Days": "0-1"
+    },
+    {
+        "Service": "Medical Care",
+        "Revenue Code": "100, 101, 110, 111, 112, 113, 117, 119, 120, 121, 122, 123, 127, 129, 130, 131, 132, 133, 137, 139, 140, 141, 142, 143, 147, 149, 150, 151, 152, 153, 157, 159, 160, 164, 167, 169",
+        "Rule": "Per Diem",
+        "Rate": 4374.00,
+        "Note": "",
+        "Days": "2-999"
+    },
+    {
+        "Service": "Surgical Care",
+        "Revenue Code": "100, 101, 110, 111, 113, 117, 119, 120, 121, 123, 127, 129, 130, 131, 133, 137, 139, 140, 141, 143, 147, 149, 150, 151, 153, 157, 159, 160, 164, 167, 169",
+        "And Revenue Code": "360, 361, 362, 367, 369, 480, 481, 750, 790",
+        "Rule": "Per Diem",
+        "Rate": 5199.00,
+        "Note": "",
+        "Days": "2-999"
+    },
+    {
+        "Service": "Acute Rehab I",
+        "Revenue Code": "118, 128, 138, 148, 158",
+        "Rule": "",
+        "Rate": "Not Reimbursed",
+        "Note": "",
+        "Days": ""
+    },
+    {
+        "Service": "Nursery",
+        "Revenue Code": "170, 171, 179",
+        "Rule": "Per Diem",
+        "Rate": 1743.00,
+        "Note": "Level I",
+        "Days": ""
+    },
+    {
+        "Service": "Nursery",
+        "Revenue Code": "172, 173",
+        "Rule": "Per Diem",
+        "Rate": 3487.00,
+        "Note": "Level II and III",
+        "Days": ""
+    },
+    {
+        "Service": "Nursery",
+        "Revenue Code": "174",
+        "Rule": "Per Diem",
+        "Rate": 5942.00,
+        "Note": "Level IV",
+        "Days": ""
+    },
+    {
+        "Service": "Skilled Care",
+        "Revenue Code": "190, 191, 192, 199",
+        "Rule": "Per Diem",
+        "Rate": 1306.00,
+        "Note": "Level I - Skilled Care",
+        "Days": ""
+    },
+    {
+        "Service": "Sub-Acute Care",
+        "Revenue Code": "193, 194",
+        "Rule": "Per Diem",
+        "Rate": 1746.00,
+        "Note": "Alternative Deliv, Level III-Complex, Level IV-Intensive",
+        "Days": ""
+    },
+    {
+        "Service": "Psychiatric Care",
+        "Revenue Code": "114, 124, 134, 144, 154, 204",
+        "Rule": "Per Diem",
+        "Rate": 1743.00,
+        "Note": "",
+        "Days": ""
+    },
+    {
+        "Service": "Inpatient Detoxification Services",
+        "Revenue Code": "116, 126, 136, 146, 156 or 118, 128, 138, 148, 158",
+        "Procedure Code": "H0008-H0011",
+        "Rule": "",
+        "Rate": "Not Reimbursed",
+        "Note": "",
+        "Days": ""
+    },
+    {
+        "Service": "Maternity Care",
+        "Revenue Code": "100, 101, 110, 111, 112, 120, 121, 122, 130, 131, 132, 140, 141, 142, 150, 151, 152, 160",
+        "Procedure Code": "10D07Z3 - 10D07Z8, 10E0XZZ",
+        "Rule": "Per Diem",
+        "Rate": 3989.00,
+        "Note": "Vaginal delivery incl newborn charges for Nursery Lev. 1 (Includes normal newborn)",
+        "Days": ""
+    },
+    {
+        "Service": "Maternity Care",
+        "Revenue Code": "100, 101, 110, 111, 112, 120, 121, 122, 130, 131, 132, 140, 141, 142, 150, 151, 152, 160",
+        "Procedure Code": "10D00Z0 - 10D00Z2",
+        "Rule": "Per Diem",
+        "Rate": 4499.00,
+        "Note": "C-Section delivery incl newborn charges for Nursery Lev. 1 (Includes normal newborn)",
+        "Days": ""
+    }
+]

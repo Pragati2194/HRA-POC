@@ -1,0 +1,27 @@
+[
+    {
+        "encounterid": 3888699,
+        "drg_code": 768,
+        "calculatedprice": 14576.12
+    },
+    {
+        "encounterid": 3894611,
+        "drg_code": 236,
+        "calculatedprice": 58107.51
+    },
+    {
+        "encounterid": 3938336,
+        "drg_code": 286,
+        "calculatedprice": 44252.82
+    },
+    {
+        "encounterid": 3903591,
+        "drg_code": 274,
+        "calculatedprice": 50660.43
+    },
+    {
+        "encounterid": 3903591,
+        "revenue_code": 278.0,
+        "calculatedprice": 56825.43
+    }
+]

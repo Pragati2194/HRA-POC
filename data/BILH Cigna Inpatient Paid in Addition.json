@@ -1,0 +1,38 @@
+[
+    {
+        "Service": "Prosthetics and Orthotics",
+        "MS_DRG Code": "",
+        "Revenue Code": "274",
+        "Procedure Code": "",
+        "Rule": "50% Reduction from Billed Charges",
+        "Threshold Limit": "$6,165.00",
+        "Note": "Revenue code range unless specified below or specifically excluded from this exhibit"
+    },
+    {
+        "Service": "Pacemaker Supplies",
+        "MS_DRG Code": "",
+        "Revenue Code": "275",
+        "Procedure Code": "",
+        "Rule": "50% Reduction from Billed Charges",
+        "Threshold Limit": "$6,165.00",
+        "Note": ""
+    },
+    {
+        "Service": "Implants",
+        "MS_DRG Code": "",
+        "Revenue Code": "278",
+        "Procedure Code": "",
+        "Rule": "50% Reduction from Billed Charges",
+        "Threshold Limit": "$6,165.00",
+        "Note": ""
+    },
+    {
+        "Service": "Intraocular Lens",
+        "MS_DRG Code": "",
+        "Revenue Code": "276",
+        "Procedure Code": "",
+        "Rule": "50% Reduction from Billed Charges",
+        "Threshold Limit": "$6,165.00",
+        "Note": ""
+    }
+]

@@ -1,0 +1,352 @@
+[
+    {
+        "Service": "Medical/Surgical - Adult and Pediatric",
+        "Revenue Code": "100-169",
+        "Rule": "Per Diem",
+        "Rate": 6705.64,
+        "Note": "revenue code range unless specified below or specifically excluded from this exhibit"
+    },
+    {
+        "Service": "ICU/CCU including Medical, Surgical, Cardiac and Pediatric",
+        "Revenue Code": "200, 201, 202, 203, 207, 208, 209, 210, 211, 212, 219",
+        "Rule": "Per Diem",
+        "Rate": 7237.50,
+        "Note": ""
+    },
+    {
+        "Service": "Intermediate ICU/CCU",
+        "Revenue Code": "206, 214",
+        "Rule": "Per Diem",
+        "Rate": 7237.50,
+        "Note": ""
+    },
+    {
+        "Service": "Vaginal Delivery – Mother Only",
+        "MS_DRG Code": "768, 796, 797, 798, 805, 806, 807",
+        "Rule": "Per Diem",
+        "Rate": 3644.03,
+        "Note": ""
+    },
+    {
+        "Service": "C-Section Delivery – Mother Only",
+        "MS_DRG Code": "783, 784, 785, 786, 787, 788",
+        "Rule": "Per Diem",
+        "Rate": 3644.03,
+        "Note": ""
+    },
+    {
+        "Service": "Newborn Level I (Normal/Boarder)",
+        "Revenue Code": "170, 171, 179",
+        "Rule": "Per Diem",
+        "Rate": 979.46,
+        "Note": ""
+    },
+    {
+        "Service": "Newborn Level II (Premature)",
+        "Revenue Code": "172",
+        "Rule": "Per Diem",
+        "Rate": 1401.79,
+        "Note": ""
+    },
+    {
+        "Service": "Newborn Level III (Sick Neonate)",
+        "Revenue Code": "173",
+        "Rule": "Per Diem",
+        "Rate": 2941.55,
+        "Note": ""
+    },
+    {
+        "Service": "Newborn Level IV (NICU)",
+        "Revenue Code": "174",
+        "Rule": "Per Diem",
+        "Rate": 4903.64,
+        "Note": ""
+    },
+    {
+        "Service": "CARDIAC VALVE W CARD CAT W MCC",
+        "MS_DRG Code": "216",
+        "Rule": "Case Rate",
+        "Rate": 154468.90,
+        "Note": ""
+    },
+    {
+        "Service": "CARDIAC VALVE W",
+        "MS_DRG Code": "217",
+        "Rule": "Case Rate",
+        "Rate": 104849.03,
+        "Note": ""
+    },
+    {
+        "Service": "CARD VALVE W CAR CTH WO CC/MCC",
+        "MS_DRG Code": "218",
+        "Rule": "Case Rate",
+        "Rate": 82125.45,
+        "Note": ""
+    },
+    {
+        "Service": "CARD VALVE W CAR CTH W CC/MCC",
+        "MS_DRG Code": "219",
+        "Rule": "Case Rate",
+        "Rate": 124562.59,
+        "Note": ""
+    },
+    {
+        "Service": "CARD VALVE W CAR CTH WO CC/CC",
+        "MS_DRG Code": "220",
+        "Rule": "Case Rate",
+        "Rate": 82886.90,
+        "Note": ""
+    },
+    {
+        "Service": "CARD VALVE W CAR CTH WO CC/MCC",
+        "MS_DRG Code": "221",
+        "Rule": "Case Rate",
+        "Rate": 69040.65,
+        "Note": ""
+    },
+    {
+        "Service": "CRD DEF IMP W AMI/HF/SK W MCC",
+        "MS_DRG Code": "222",
+        "Rule": "Case Rate",
+        "Rate": 131340.91,
+        "Note": ""
+    },
+    {
+        "Service": "CRD DEF IMP W AMI/HF/SK WO MCC",
+        "MS_DRG Code": "223",
+        "Rule": "Case Rate",
+        "Rate": 99010.16,
+        "Note": ""
+    },
+    {
+        "Service": "CRD DEF IMP WO AMI/HF/SK W MCC",
+        "MS_DRG Code": "224",
+        "Rule": "Case Rate",
+        "Rate": 116838.51,
+        "Note": ""
+    },
+    {
+        "Service": "CRD DF IMP WO AMI/HF/SK WO MCC",
+        "MS_DRG Code": "225",
+        "Rule": "Case Rate",
+        "Rate": 92774.23,
+        "Note": ""
+    },
+    {
+        "Service": "CAR DEFB MPLT WO CAR CAT W MCC",
+        "MS_DRG Code": "226",
+        "Rule": "Case Rate",
+        "Rate": 99410.37,
+        "Note": ""
+    },
+    {
+        "Service": "CAR DEF IMPL WO CAR CAT WO MCC",
+        "MS_DRG Code": "227",
+        "Rule": "Case Rate",
+        "Rate": 80034.87,
+        "Note": ""
+    },
+    {
+        "Service": "OTH CARDIOTH ORACIC PROCS W MCC",
+        "MS_DRG Code": "228",
+        "Rule": "Case Rate",
+        "Rate": 116935.41,
+        "Note": ""
+    },
+    {
+        "Service": "OTH CARDIOTH ORACIC PROCS W/O MCC",
+        "MS_DRG Code": "229",
+        "Rule": "Case Rate",
+        "Rate": 73576.73,
+        "Note": ""
+    },
+    {
+        "Service": "CORONARY BYPASS W PTCA W MCC",
+        "MS_DRG Code": "231",
+        "Rule": "Case Rate",
+        "Rate": 121095.50,
+        "Note": ""
+    },
+    {
+        "Service": "CORONARY BYPASS W PTCA W/O MCC",
+        "MS_DRG Code": "232",
+        "Rule": "Case Rate",
+        "Rate": 89661.01,
+        "Note": ""
+    },
+    {
+        "Service": "CORONARY BYP W CARD CATH W MCC",
+        "MS_DRG Code": "233",
+        "Rule": "Case Rate",
+        "Rate": 111078.63,
+        "Note": ""
+    },
+    {
+        "Service": "COR BYPASS W CARD CATH WO MCC",
+        "MS_DRG Code": "234",
+        "Rule": "Case Rate",
+        "Rate": 74403.48,
+        "Note": ""
+    },
+    {
+        "Service": "COR BYPASS WO CARD CATH W MCC",
+        "MS_DRG Code": "235",
+        "Rule": "Case Rate",
+        "Rate": 90194.98,
+        "Note": ""
+    },
+    {
+        "Service": "COR BYPASS WO CARD CATH WO MCC",
+        "MS_DRG Code": "236",
+        "Rule": "Case Rate",
+        "Rate": 58107.51,
+        "Note": ""
+    },
+    {
+        "Service": "PERM CARD PCMKR IMPLANT W MCC",
+        "MS_DRG Code": "242",
+        "Rule": "Case Rate",
+        "Rate": 57444.00,
+        "Note": ""
+    },
+    {
+        "Service": "PERM CARDIAC PCMKR IMPLNT W CC",
+        "MS_DRG Code": "243",
+        "Rule": "Case Rate",
+        "Rate": 40849.98,
+        "Note": ""
+    },
+    {
+        "Service": "PERM CARD PCMKR IMPL WO CC/MCC",
+        "MS_DRG Code": "244",
+        "Rule": "Case Rate",
+        "Rate": 31433.43,
+        "Note": ""
+    },
+    {
+        "Service": "AICD GENERATO R PROCS",
+        "MS_DRG Code": "245",
+        "Rule": "Case Rate",
+        "Rate": 65471.40,
+        "Note": ""
+    },
+    {
+        "Service": "PERC CARD PX W DG EL ST W MCC",
+        "MS_DRG Code": "246",
+        "Rule": "Case Rate",
+        "Rate": 49006.92,
+        "Note": ""
+    },
+    {
+        "Service": "PERC CARD PX W DG EL ST WO MCC",
+        "MS_DRG Code": "247",
+        "Rule": "Case Rate",
+        "Rate": 30344.44,
+        "Note": ""
+    },
+    {
+        "Service": "PERC CAR PX W N-DG EL ST W MCC",
+        "MS_DRG Code": "248",
+        "Rule": "Case Rate",
+        "Rate": 45073.26,
+        "Note": ""
+    },
+    {
+        "Service": "PER CAR PX W N-DG EL ST WO MCC",
+        "MS_DRG Code": "249",
+        "Rule": "Case Rate",
+        "Rate": 27326.00,
+        "Note": ""
+    },
+    {
+        "Service": "PER CAR PX WO ST OR AMI W MCC",
+        "MS_DRG Code": "250",
+        "Rule": "Case Rate",
+        "Rate": 44436.09,
+        "Note": ""
+    },
+    {
+        "Service": "PER CAR PX WO ST OR AMI WO MCC",
+        "MS_DRG Code": "251",
+        "Rule": "Case Rate",
+        "Rate": 27725.16,
+        "Note": ""
+    },
+    {
+        "Service": "AORT HRT ASST PROC EX PULSE BALL/W MCC",
+        "MS_DRG Code": "268",
+        "Rule": "Case Rate",
+        "Rate": 105472.52,
+        "Note": ""
+    },
+    {
+        "Service": "AORT HRT ASST PROC EX PULS BALL W/OMCC",
+        "MS_DRG Code": "269",
+        "Rule": "Case Rate",
+        "Rate": 52845.78,
+        "Note": ""
+    },
+    {
+        "Service": "OTHER MAJOR CARDIOVA SCULAR PROC W MCC",
+        "MS_DRG Code": "270",
+        "Rule": "Case Rate",
+        "Rate": 79983.27,
+        "Note": ""
+    },
+    {
+        "Service": "OTHER MAJOR CARDIOVA SCULAR PROC W CC",
+        "MS_DRG Code": "271",
+        "Rule": "Case Rate",
+        "Rate": 54630.94,
+        "Note": ""
+    },
+    {
+        "Service": "OTR MAJOR CARDIOVA SC PROC W/O CC/MCC",
+        "MS_DRG Code": "272",
+        "Rule": "Case Rate",
+        "Rate": 40389.74,
+        "Note": ""
+    },
+    {
+        "Service": "PERCUTAN EOUS INTRACAR DIAC PROC W MCC",
+        "MS_DRG Code": "273",
+        "Rule": "Case Rate",
+        "Rate": 75419.80,
+        "Note": ""
+    },
+    {
+        "Service": "PERCUTAN EOUS INTRACAR DIAC PROC W/O MCC",
+        "MS_DRG Code": "274",
+        "Rule": "Case Rate",
+        "Rate": 50660.43,
+        "Note": ""
+    },
+    {
+        "Service": "CIRC DSRD EX AMI,W CA CA W MCC",
+        "MS_DRG Code": "286",
+        "Rule": "Case Rate",
+        "Rate": 30841.54,
+        "Note": ""
+    },
+    {
+        "Service": "CIRCULAT DIS, W CAR CAT WO MCC",
+        "MS_DRG Code": "287",
+        "Rule": "Case Rate",
+        "Rate": 16764.64,
+        "Note": ""
+    },
+    {
+        "Service": "CHEM W AC LEUK AS SDX OW HI D CHE WMCC",
+        "MS_DRG Code": "837",
+        "Rule": "Case Rate",
+        "Rate": 102631.02,
+        "Note": ""
+    },
+    {
+        "Service": "CHE W A LEUK AS SDX WCC OR HI D CHE AG",
+        "MS_DRG Code": "838",
+        "Rule": "Case Rate",
+        "Rate": 48428.72,
+        "Note": ""
+    }
+]

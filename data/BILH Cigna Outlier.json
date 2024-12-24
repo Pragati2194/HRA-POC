@@ -1,0 +1,79 @@
+[
+    {
+        "Service": "CARDIAC VALVE W CARD CAT W MCC",
+        "MS_DRG Code": "216",
+        "Outlier Days": "25",
+        "Outlier Rate": "6705.64",
+        "Outlier Rule": "Per Diem"
+    },
+    {
+        "Service": "CARDIAC VALVE W CARD CAT W CC",
+        "MS_DRG Code": "217",
+        "Outlier Days": "25",
+        "Outlier Rate": "6705.64",
+        "Outlier Rule": "Per Diem"
+    },
+    {
+        "Service": "CARD VALVE W CAR CTH WO CC/MCC",
+        "MS_DRG Code": "218",
+        "Outlier Days": "25",
+        "Outlier Rate": "6705.64",
+        "Outlier Rule": "Per Diem"
+    },
+    {
+        "Service": "CARD VALVE W CAR CTH W CC/MCC",
+        "MS_DRG Code": "219",
+        "Outlier Days": "19",
+        "Outlier Rate": "6705.64",
+        "Outlier Rule": "Per Diem"
+    },
+    {
+        "Service": "CARD VALVE W CAR CTH WO CC/CC",
+        "MS_DRG Code": "220",
+        "Outlier Days": "19",
+        "Outlier Rate": "6705.64",
+        "Outlier Rule": "Per Diem"
+    },
+    {
+        "Service": "CARD VALVE W CAR CTH WO CC/MCC",
+        "MS_DRG Code": "221",
+        "Outlier Days": "19",
+        "Outlier Rate": "6705.64",
+        "Outlier Rule": "Per Diem"
+    },
+    {
+        "Service": "CRD DEF IMP W AMI/HF/SK W MCC",
+        "MS_DRG Code": "222",
+        "Outlier Days": "20",
+        "Outlier Rate": "6705.64",
+        "Outlier Rule": "Per Diem"
+    },
+    {
+        "Service": "CRD DEF IMP W AMI/HF/SK WO MCC",
+        "MS_DRG Code": "223",
+        "Outlier Days": "20",
+        "Outlier Rate": "6705.64",
+        "Outlier Rule": "Per Diem"
+    },
+    {
+        "Service": "CRD DEF IMP WO AMI/HF/SK W MCC",
+        "MS_DRG Code": "224",
+        "Outlier Days": "25",
+        "Outlier Rate": "6705.64",
+        "Outlier Rule": "Per Diem"
+    },
+    {
+        "Service": "CRD DF IMP WO AMI/HF/SK WO MCC",
+        "MS_DRG Code": "225",
+        "Outlier Days": "20",
+        "Outlier Rate": "6705.64",
+        "Outlier Rule": "Per Diem"
+    },
+    {
+        "Service": "CIRC DSRD EX AMI,W CA CA W MCC",
+        "MS_DRG Code": "286",
+        "Outlier Days": "10",
+        "Outlier Rate": "6705.64",
+        "Outlier Rule": "Per Diem"
+    }
+]
