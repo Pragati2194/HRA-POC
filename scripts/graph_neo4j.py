@@ -28,7 +28,7 @@ def create_nodes_and_relationships(json_data):
             # Create other nodes based on the keys in the JSON record
             for key, value in record.items():
                 if key != "Service":  # Skip Service as it's already handled
-                    node_label = key.replace(" ", "_")  # Convert spaces to underscores for node labels
+                    node_label = key.replace(" ", "_").replace("-", "_")  # Convert spaces and dashes to underscores for node labels
 
                     # Check if the value is a comma-separated string (e.g., Revenue Code)
                     if isinstance(value, str) and "," in value:
